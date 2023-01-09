@@ -1,0 +1,4 @@
+Daniel Acosta
+Assignment 1
+
+Output of system_test.py: “This is an acceptable version of Python, version 3.10.”
